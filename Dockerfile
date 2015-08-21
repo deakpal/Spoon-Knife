@@ -1,3 +1,3 @@
-FROM alexeiled/java7-maven-git
+FROM ludalex/docker-java7-maven-aws-git
 
 
